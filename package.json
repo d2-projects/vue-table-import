@@ -1,7 +1,7 @@
 {
   "name": "@d2-projects/vue-table-import",
   "description": "vue plugin to import csv or xlsx table file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "liyang <1711467488@qq.com>",
   "private": false,
   "license": "MIT",
